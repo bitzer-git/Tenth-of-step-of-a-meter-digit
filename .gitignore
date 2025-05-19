@@ -11,6 +11,7 @@ images_VD/
 output/cnn32-md_best.h5
 output/cnn32-md_false_predicted.csv
 output/tmp/*
+prepare_data/from_font/generated/
 __pycache__/
 *.pyc
 .venv/
